@@ -1,0 +1,8 @@
+.input {
+    color: var(--Marine-blue) !important;
+    font-weight: 500;
+    min-width: 250px;
+    &:focus {
+        border-color: var(--Marine-blue);
+    }
+}
